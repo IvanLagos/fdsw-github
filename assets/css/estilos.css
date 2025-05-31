@@ -1,5 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #000000;
+  color: white;
 }
 
 /* Hero Section */
@@ -13,6 +15,9 @@ body {
 
 /* Mis trabajos */
 
+.card-body{
+  color: black;
+}
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
